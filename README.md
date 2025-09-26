@@ -75,7 +75,7 @@ See the [LICENSE](./LICENSE) file for details.
 
 ---
 
-## 🔗 Citation
+## Citation
 
 If you use this code or dataset, please cite:
 
