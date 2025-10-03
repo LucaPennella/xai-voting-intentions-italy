@@ -38,7 +38,7 @@ This study introduces an **explainable ML framework** that integrates demographi
   - `shap`
   - `matplotlib`, `seaborn`
 
-## 📊 Results
+## Results
 
 * **Best classifier**: LightGBM (macro-F1 = 0.669, Accuracy = 0.706 on 2019 hold-out)
 * **Reduced feature set**: 93 predictors (performance comparable to full 188 features)
