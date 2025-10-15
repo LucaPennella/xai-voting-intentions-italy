@@ -16,9 +16,13 @@ publish, and distribute this code and associated data, provided that:
 3. Redistributions of the code or data must retain this license and the above
    copyright notice.
 
-Commercial use, including but not limited to use in proprietary software,
-consulting, or product development, is strictly prohibited without explicit
-written permission from the authors.
+4. Portions of the dataset used in this work are derived from proprietary data owned by SWG S.p.A. (Trieste, Italy).
+These data are made available solely for academic and research purposes related to the present publication. 
+Any use, reproduction, distribution, or derivative work involving SWG data is strictly prohibited for:
+(a) any commercial purpose, including consulting, marketing, or product development; 
+(b) any competitive purpose, including the creation or support of market research, opinion polls, or observatories similar to or competing with those of SWG; 
+(c) any redistribution of the SWG data, in whole or in part, outside the context of this research, without prior written consent from SWG S.p.A. 
+SWG S.p.A. retains full ownership and all intellectual property rights in and to its original datasets.
 
 THE SOFTWARE AND DATA ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
